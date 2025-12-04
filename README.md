@@ -1,6 +1,5 @@
 <!-- ====== HERO BANNER ====== -->
 <p align="center">
-  <img src="https://github.com/SachinYadav666/SachinYadav666/blob/main/assets/banner.png" alt="AI Engineer Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Sachin Yadav</strong></h1>
