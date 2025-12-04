@@ -121,14 +121,26 @@ This system represents:
 
 ---
 
-# 📊 **GitHub Activity**
+# 📊 **GitHub Activity & Metrics**
 
 <div align="center">
-    <p>
-   <a href="[https://git.io/streak-stats](https://git.io/streak-stats)">
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=SachinYadav666&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=SachinYadav666&theme=dark&hide_border=true)" alt="GitHub Streak" />
-</a>
-    </p>
+
+### **Development Metrics**
+
+<img src="https://img.shields.io/github/languages/top/SachinYadav666/SachinYadav666?style=flat&color=blue&label=Top%20Language%20(Python)" alt="Top Language Badge"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/SachinYadav666/SachinYadav666?style=flat&label=Total%20Commits%20(Year)" alt="Total Commits Badge"/>
+
+<img src="https://img.shields.io/github/repos/SachinYadav666?style=flat&label=Total%20Repositories" alt="Total Repositories Badge"/>
+
+---
+
+### **Activity Visualization (Powered by GitHub Actions)**
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/SachinYadav666/SachinYadav666/main/dist/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
 </div>
 
 ---
@@ -162,7 +174,7 @@ This system represents:
 
 </div>
 
-
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg"/>
