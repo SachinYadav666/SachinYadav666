@@ -125,7 +125,9 @@ This system represents:
 
 <div align="center">
     <p>
-    My GitHub profile is focused on building **production-grade LLM Agents, RAG systems, and robust Python backends**. I prioritize contribution to real-world AI projects.
+   <a href="[https://git.io/streak-stats](https://git.io/streak-stats)">
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=SachinYadav666&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=SachinYadav666&theme=dark&hide_border=true)" alt="GitHub Streak" />
+</a>
     </p>
 </div>
 
